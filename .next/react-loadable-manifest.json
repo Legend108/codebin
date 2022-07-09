@@ -1,8 +1,0 @@
-{
-  "snippet\\[id].tsx -> ../../components/textEditor": {
-    "id": "./src/components/textEditor.tsx",
-    "files": [
-      "static/chunks/src_components_textEditor_tsx.js"
-    ]
-  }
-}
