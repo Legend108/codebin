@@ -1,1 +1,27 @@
+.large {
+  margin-top: 7vh;
+  font-size: 50px;
+}
 
+.bitSmall {
+  margin-top: 7vh;
+  font-size: 40px;
+}
+
+.bitMoreSmall {
+  margin-top: 7vh;
+  font-size: 25px;
+}
+
+.prettySmall {
+  margin-top: 7vh;
+  font-size: 20px;
+}
+
+#editor {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
